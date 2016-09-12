@@ -9,3 +9,5 @@
 ![8](https://github.com/Scosh/Makepkg-Not-War-Wallpaper-Series/blob/master/16x9/makepkg_not_war_old_notext.png)
 
 Made using Inkscape and the official Arch Linux logo and blue (https://www.archlinux.org/art/).
+
+The source files are included as Inkscape SVGs.
